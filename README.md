@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Machine Learning Engineer | MSc Data Science @ MAHE</h3>
 
 <p align="center">
-  📍 Manipal, India • 📧 deekshithpatkar@gmail.com  
+  📍 Manipal, India • 📧 <a href="mailto:deekshithpatkar@gmail.com">deekshithpatkar@gmail.com</a>
 </p>
 
 ---
