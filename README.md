@@ -36,9 +36,9 @@ I focus on:
 
 ---
 
-### 🔍 Multimodal Deepfake Detection (Ongoing)
+### 🔍 Multimodal Deepfake Detection
 - Audio + video pipelines using deep learning  
-- EfficientNet for vision, spectrogram models for audio  
+- MobileNetV3-Small for vision, spectrogram models for audio  
 - Evaluation using ROC-AUC, F1-score  
 
 ---
